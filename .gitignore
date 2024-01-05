@@ -1,0 +1,8 @@
+/.venv
+/MTL_grouped
+/NRC-VAD-Lexicon
+**.model
+**.zip
+trmodel
+**.txt
+**.bz2
